@@ -1,0 +1,9 @@
+1.What is your favorite test framework and why?
+
+My favourite test framework is BDD, because BDD is a kind of framework where you can easily start writing your testcases for your application .The test cases which we write in BDD is easily maintainable and can be understood by everyone easily.
+The test cases can be directly mapped with the reqirements.We can easily track the requirements with the test case which we have created for that requirement .The test case which we are writing can be same as the test case steps , as the test case in BDD are written in simple english format , which can be easily understood by all , also those persons who donot have technical hand .I had used BDD for the automation of web -application which i had automated while i was working for company.
+
+
+2. Given the following sample_account.py (see source code in repo), please write a unit test suite for the class.
+
+
