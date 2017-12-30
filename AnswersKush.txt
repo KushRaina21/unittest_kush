@@ -6,4 +6,5 @@ The test cases can be directly mapped with the reqirements.We can easily track t
 
 2. Given the following sample_account.py (see source code in repo), please write a unit test suite for the class.
 
+The test file is attached with the name Customer_test.py.
 
